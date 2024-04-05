@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tanish-dusane-781a7a16a" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="https://www.linkedin.com/in/tanish-dusane-781a7a16a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanish-dusane-781a7a16a/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="https://www.linkedin.com/in/tanish-dusane-781a7a16a" height="30" width="40" /></a>
 <a href="https://instagram.com/its_tanish_17" target="blank"><img align="center" src="https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif" alt="its_tanish_17" height="30" width="40" /></a>
 </p>
 
